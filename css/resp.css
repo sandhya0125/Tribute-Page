@@ -1,0 +1,25 @@
+@media screen and (max-width: 1040px) {
+    .heading{
+        margin-top: 0%;
+    }
+    }
+@media screen and (max-width: 855px) {
+.heading{
+    margin-top: 0%;
+}
+.head2{
+    display: none;
+}
+ul{
+    font-size: 1.4rem;
+}
+.card {
+max-width: fit-content;
+}
+.foot{
+    flex-direction: column;
+}
+.card img{
+    height: 74%;
+  }
+}
